@@ -63,8 +63,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I am concurrently enrolled in the Innovation and Entrepreneurship Management Intensive Program at Zhejiang University, and I have a profound interest in both management and product development. In my daily life, I often play MOBA, action, and anime-style games, and occasionally engage in strategy games. My favorite sport is football, and my favorite team is Arsenal.
-  North London Forever!
+  <br>I am concurrently enrolled in the Innovation and Entrepreneurship Management Intensive Program at Zhejiang University, and I have a profound interest in both management and product development. 
+  <br>In my daily life, I often play MOBA, action, and anime-style games, and occasionally engage in strategy games. 
+  <br>My favorite sport is football, and my favorite team is Arsenal.
+  <br>North London Forever!
 # Footer
 footer_show_references: true
 
