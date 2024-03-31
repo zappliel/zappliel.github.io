@@ -3,14 +3,16 @@
 - layout: left
   name: IoT Device Management Platform
   github: zappliel/iot
-  description: | # A simple IoT device management platform based on Vue + SpringBoot + MQTT is implemented. 
+  description: | # this will include new lines to allow paragraphs
+     A simple IoT device management platform based on Vue + SpringBoot + MQTT is implemented. 
      It provides functionalities such as user registration, login, modification and query of device configurations, 
      visual display of device historical trajectories, simulation of sending and receiving device information, etc.
 
 - layout: left
   name: A Linux-like Operating System Kernel
   github: zappliel/MiniOS
-  description: | # A MiniOS written in C language and RISC-V assembly, capable of running on the QEMU simulator, 
+  description: | # this will include new lines to allow paragraphs 
+      A MiniOS written in C language and RISC-V assembly, capable of running on the QEMU simulator, 
       covering three privilege architectures (User Mode, Supervisor Mode, Machine Mode).
 
 
@@ -19,7 +21,8 @@
 - layout: left
   name: Enterprise Information Analysis Platform
   github: LTLVL/QiPingZhiYan
-  description: | # A simple company information collection and analysis platform implemented with React + SpringBoot + Elasticsearch. 
+  description: | # this will include new lines to allow paragraphs 
+     A simple company information collection and analysis platform implemented with React + SpringBoot + Elasticsearch. 
      It provides functionalities such as basic company information retrieval, user comment collection, sentiment analysis of comments, 
      and enterprise reference evaluation.
 
@@ -29,7 +32,8 @@
 - layout: left
   name: Simple car-borrow-system based on ERC20
   github: zappliel/CarBorrowSystem
-  description: | # Create a contract to issue a collection of NFTs, where each NFT represents a car. On the website, by default, 
+  description: | # this will include new lines to allow paragraphs
+      Create a contract to issue a collection of NFTs, where each NFT represents a car. On the website, by default, 
       each user's cars can be borrowed. Each user can: view their own list of owned cars, view the list of cars currently not borrowed, 
       query the owner of a car, and the current borrower of the car (if any). Choose and borrow a car that hasn't been borrowed for a certain period. 
       Complete the process of paying for car rental using their own issued points (ERC20).
