@@ -1,0 +1,6 @@
+<div class="container acheivements-container">
+  <h3>{{ site.acheivements_title | default: "Acheivements" }}</h3>
+  {% for acheivements in site.data.acheivements %}
+    {% include {{ acheivements.layout | default: 'left' | append: ".html" }} item=acheivements %}
+  {% endfor %}
+</div>

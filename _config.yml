@@ -1,0 +1,92 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: assets/favicon.ico
+
+# Personal info
+name: Kajal Gupta
+#title: Your job title
+email: kajalg.mcs19.du@gmail.com 
+#phone: Your phone number (optional)
+#website: kajal.github.io 
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  kajal03
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: kajal03
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+gmail_username: kajalg.msc19.du@gmail.com
+#orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: Hello
+#  icon: fa-envelope-square
+#  url: https://google.com
+
+#- title: another link
+#  icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/dp.jpeg
+about_content: | # this will include new lines to allow paragraphs
+ <br><br> Hi, I recently completed my MSc. Computer Science from Department of Computer Science, University of Delhi.<br>Currently I'm an intern at Accolite Digital. I love to code and solve algorithmic challenges. I am also interested in Web Development and Machine Learning.<br> If you are interested, you can view some of my favorite projects in my portfolio down below.
+
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Acheivements Section
+# acheivements_title: Acheivements #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  When I am not coding I am very active and spend most of my time outdoors. I enjoy swimming and roller skating. As I like to be creative, I try to   	make time for painting.
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

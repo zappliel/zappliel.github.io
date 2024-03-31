@@ -1,0 +1,51 @@
+# Project template
+
+- layout: left
+  name: Course Management System
+  github: Kajal03/Course-Management-System
+  description: | # this will include new lines to allow paragraphs
+    An online platform for hosting courses and managing them.
+    Allows trainers to efficiently manage course material by keeping the version history.
+
+
+- layout: left
+  name: Buffer Cache Simulation
+  github: Kajal03/Buffer-Cache-Simulation
+  description: | # this will include new lines to allow paragraphs
+    A simulation of Buffer Cache Management System in Multiprogramming Environment.
+    Implemented getblk and brelse algorithms of the operating system that handle the buffers used by processes.
+
+
+
+
+- layout: left
+  name: University of Delhi Scorecard Fetcher
+  github: Kajal03/University-of-Delhi-Scorecard-Mailer
+  description: | # this will include new lines to allow paragraphs
+    A web-scraping system that emails the candidate his/her scorecard upon the declaration of result.
+    The system is capable of fetching scorecards of different colleges and courses throughout Delhi University.
+    
+
+
+
+- layout: left
+  name: Driver Drowsiness Detection System
+  github: Kajal03/Driver-Drowsiness-Detection
+  description: | # this will include new lines to allow paragraphs
+    A computer vision system that detects driver drowsiness in a real-time video stream.
+    An alarm is triggered if the driver appears to be drowsy depending upon the driver failing a certain
+    threshold score.
+    The system can also be deployed to prevent/detect fatigue-related accidents.
+
+
+
+
+- layout: left
+  name: AI Image Captioning Bot
+  github: Kajal03/AI-Image-Captioning-Bot
+  description: | # this will include new lines to allow paragraphs
+    A Deep Learning model for Image Captioning, wherein the bot takes an image from the user and generates
+    captions describing it.
+    For easy access, the system is deployed as a Flask Web Application
+    The model uses transfer learning to extract features from an image which are further used by LSTM layers
+    to generate captions. 
