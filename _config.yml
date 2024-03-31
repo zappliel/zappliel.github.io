@@ -6,7 +6,7 @@ favicon: assets/favi.ico
 name: Chen Pu
 #title: Your job title
 email: 3210101477@zju.edu.cn
-#phone: Your phone number (optional)
+phone: 15251276582
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,7 +19,7 @@ github_username:  zappliel
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: Chen Pu
+linkedin_username: ChenPu1213
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
