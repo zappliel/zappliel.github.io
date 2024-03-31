@@ -3,29 +3,28 @@ repository: Git repository where your resume will be hosted, only required if yo
 favicon: assets/favicon.ico
 
 # Personal info
-name: Kajal Gupta
+name: Chen Pu
 #title: Your job title
-email: kajalg.mcs19.du@gmail.com 
+email: 3210101477@zju.edu.cn
 #phone: Your phone number (optional)
-#website: kajal.github.io 
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  kajal03
+github_username:  zappliel
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: kajal03
+linkedin_username: Chen Pu
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-gmail_username: kajalg.msc19.du@gmail.com
+gmail_username: 3210101477@zju.edu.cn
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -48,7 +47,8 @@ gmail_username: kajalg.msc19.du@gmail.com
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/dp.jpeg
 about_content: | # this will include new lines to allow paragraphs
- <br><br> Hi, I recently completed my MSc. Computer Science from Department of Computer Science, University of Delhi.<br>Currently I'm an intern at Accolite Digital. I love to code and solve algorithmic challenges. I am also interested in Web Development and Machine Learning.<br> If you are interested, you can view some of my favorite projects in my portfolio down below.
+ <br><br> I am an undergraduate student currently majoring in Software Engineering at Zhejiang University (ZJU), China PR 🇨🇳, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of AIGC and network security. <br> I have a strong interest in cryptocurrency and blockchain technology. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.<br> If you are interested, you can view some of my favorite projects in my portfolio down below.
+
 
 
 # Projects Section
@@ -63,7 +63,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  When I am not coding I am very active and spend most of my time outdoors. I enjoy swimming and roller skating. As I like to be creative, I try to   	make time for painting.
+  I am concurrently enrolled in the Innovation and Entrepreneurship Management Intensive Program at Zhejiang University, and I have a profound interest in both management and product development. In my daily life, I often play MOBA, action, and anime-style games, and occasionally engage in strategy games. My favorite sport is football, and my favorite team is Arsenal.
+  North London Forever!
 # Footer
 footer_show_references: true
 
