@@ -6,7 +6,7 @@ favicon: assets/favi.ico
 name: Chen Pu
 #title: Your job title
 email: 3210101477@zju.edu.cn
-phone: 15251276582
+# phone: 15251276582
 
 # Dark Mode (true/false/never)
 darkmode: false
